@@ -1,2 +1,2 @@
 # Swing
-# Folder holding all my practises on using Swing in java
+# Folder holding all my practises on Swing in java
